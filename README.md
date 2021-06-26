@@ -11,6 +11,7 @@ this is example is to show differents parts of the git
 
 as stated above
 ## How to Contribute
+please fork this repository
 
 ### Copyright
 test
