@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 this is a simple website project.
-add txt
+add txt,  other txt
 ## Introduction
 this is a simple website project
 
